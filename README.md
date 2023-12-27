@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Unraveling insights in a world of data, one line of code at a time. 📊✨
+Unraveling insights in a world of data, one line of code at a time. 📊✨
 
 <!--
 **NarenKandregula/Narenkandregula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
